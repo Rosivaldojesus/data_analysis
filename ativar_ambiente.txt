@@ -1,0 +1,1 @@
+PS C:\projetos\analise_de_dados> conda activate analise_de_dados
